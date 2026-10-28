@@ -1,23 +1,35 @@
-# Freelancer Invoice Aging — Free Sample
+# Who to Chase This Friday — Free Invoice Aging Sample
+
+**Friday chase ritual (hub):** https://sirmem.github.io/freelancer-money-sheets/who-to-chase-this-friday-freelance-invoices.html
 
 **Trust hub (disclosure · ledger · refund):** https://sirmem.github.io/freelancer-money-sheets/
 
-A complete, usable **Friday AR habit** spreadsheet: sort unpaid invoices into the four standard accounts-receivable buckets bookkeepers use.
+A complete, usable **Who to Chase This Friday** spreadsheet: sort unpaid invoices into the four standard accounts-receivable buckets, then pick the **top three** by days overdue (usually **60+ first** unless already written off).
 
-This file is a **structural seam** of the larger **Freelancer Invoice Tracker** — same quality as the paid aging sheet, not a crippled demo. It solves “who is late this Friday?” end-to-end. It does **not** create invoices, store client addresses, print PDFs, or roll income dashboards.
+This file is a **structural seam** of the larger **Who to Chase This Friday — Freelance Invoice Aging Tracker** — same quality as the paid Aging surface, not a crippled demo. It solves “who do I chase this Friday?” end-to-end. It does **not** create invoices, store client addresses, print PDFs, or roll income dashboards. It is **not** a soft→firm email-script pack.
+
+## 15-minute Friday ritual
+
+1. Set **Aging as of** to this Friday.
+2. Confirm every open invoice sits in a bucket (Current / 1–30 / 31–60 / 60+).
+3. Sort by **days overdue** (not amount).
+4. Pick the **top three** only — usually chase **60+** first unless written off.
+5. Chase those three. Stop. Don’t rebuild tabs first.
+
+Full write-up: [who-to-chase-this-friday-freelance-invoices.html](https://sirmem.github.io/freelancer-money-sheets/who-to-chase-this-friday-freelance-invoices.html)
 
 ## What's inside
 
-| Bucket | Meaning |
-|--------|---------|
-| **Current** | Not yet past due |
-| **1-30** | 1–30 days overdue |
-| **31-60** | 31–60 days overdue |
-| **60+** | 60+ days overdue |
+| Bucket | Meaning | Friday bias |
+|--------|---------|-------------|
+| **Current** | Not yet past due | Watch — don’t chase yet |
+| **1-30** | 1–30 days overdue | Polite nudge if amount/client matters |
+| **31-60** | 31–60 days overdue | Escalate tone / confirm receipt |
+| **60+** | 60+ days overdue | Usually chase first unless written off |
 
 - EXAMPLE rows only (fictional clients) — replace with your own; do not publish real client PII.
-- Auto bucket totals (count + $) via COUNTIF / SUMIF.
-- Set **Aging as of** to today’s Friday and chase 1–30 / 31–60 first.
+- Auto bucket totals (count + $) via COUNTIF / SUMIF; Days past due + Bucket are formulas off **Aging as of**.
+- **Top 3 this Friday** helper block on the Aging Sample sheet (EXAMPLE as of 2026-10-31).
 - Sheets: **Start Here** · **Full Tracker — What's Inside** · **Aging Sample**
 
 ## Download
@@ -30,9 +42,9 @@ Or clone / browse this repo and open `Freelancer-Invoice-Aging-Sample.xlsx` in E
 
 ## Primary CTA — this sample feeds Invoice only
 
-Late pay / messy aging receivables → **[Invoice Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker)**
+Late pay / messy aging receivables → **[Who to Chase This Friday — Freelance Invoice Aging Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker)**
 
-Stay free if the Aging subset is enough. This sample does **not** hard-upsell Expense, Client, or Bundle.
+Stay free if the Aging subset is enough. This sample does **not** hard-upsell Expense, Client, or Bundle. Free Aging stays free ($0+ on Gumroad: [merlns](https://keithjenn.gumroad.com/l/merlns)).
 
 ## Which tracker? (situation map)
 
@@ -46,15 +58,15 @@ Stay free if the Aging subset is enough. This sample does **not** hard-upsell Ex
 
 ## Free vs paid (Invoice only)
 
-This free Aging sample answers “who is late this Friday?” with four buckets.
+This free Aging sample answers “who to chase this Friday?” with four buckets + a top-3 helper.
 
-It does **not** include: reusable Clients address book, printable single-invoice PDF sheet, or Dashboard (outstanding / paid YTD / avg days-to-pay). Those live in the paid [Invoice Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker) for the same late-pay situation.
+It does **not** include: reusable Clients address book, printable single-invoice PDF sheet, Invoice Log history, or Dashboard (outstanding / paid YTD / avg days-to-pay). Those live in the paid [Who to Chase This Friday — Freelance Invoice Aging Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker) for the same late-pay situation.
 
 If the four-bucket subset is enough, stay free — no pitch. Prefer a GitHub issue over email if something in the sample is unclear (Gumroad in-app email may be unavailable on free products).
 
 ## Source / methodology
 
-Based on the common public accounts-receivable aging practice (Current / 1–30 / 31–60 / 60+ days past due) used in bookkeeping textbooks and SME workflows. Example data is fictional. Not Kevin’s personal client data. Not tax or accounting advice.
+Based on the common public accounts-receivable aging practice (Current / 1–30 / 31–60 / 60+ days past due) used in bookkeeping textbooks and SME workflows. Friday ritual aligned with the public hub page above. Example data is fictional. Not Kevin’s personal client data. Not tax or accounting advice. MIT-style personal use; see License.
 
 ## License
 
