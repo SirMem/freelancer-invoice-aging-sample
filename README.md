@@ -1,6 +1,8 @@
 # Freelancer Invoice Aging — Free Sample
 
-A lightweight **Friday AR habit** spreadsheet: sort open invoices into the four standard accounts-receivable buckets bookkeepers use.
+A complete, usable **Friday AR habit** spreadsheet: sort unpaid invoices into the four standard accounts-receivable buckets bookkeepers use.
+
+This file is a **structural seam** of the larger **Freelancer Invoice Tracker** — same quality as the paid aging sheet, not a crippled demo. It solves “who is late this Friday?” end-to-end. It does **not** create invoices, store client addresses, print PDFs, or roll income dashboards.
 
 ## What's inside
 
@@ -13,16 +15,31 @@ A lightweight **Friday AR habit** spreadsheet: sort open invoices into the four 
 
 - EXAMPLE rows only (fictional clients) — replace with your own; do not publish real client PII.
 - Auto bucket totals (count + $) via COUNTIF / SUMIF.
-- Set **Aging as of** to today's Friday and chase 1–30 / 31–60 first.
+- Set **Aging as of** to today’s Friday and chase 1–30 / 31–60 first.
+- Sheets: **Start Here** · **Full Tracker — What's Inside** · **Aging Sample**
 
-## What this sample does **not** do
+## Download
 
-It does **not** create invoices, PDF output, client lists, payment logs, or a Dashboard. Those live in the paid sibling: **Freelancer Invoice Tracker** (Invoice Log + Aging sheet + Dashboard).
+Raw `.xlsx` (right-click → Save As):
 
-## Not tax / accounting advice
+https://raw.githubusercontent.com/SirMem/freelancer-invoice-aging-sample/main/Freelancer-Invoice-Aging-Sample.xlsx
 
-This is a spreadsheet habit tool based on the standard AR aging method. It is not tax software, not bookkeeping advice, and not a substitute for an accountant.
+Or clone / browse this repo and open `Freelancer-Invoice-Aging-Sample.xlsx` in Excel, Google Sheets, or LibreOffice.
 
-## License / use
+## Gap questions (optional — only if one fits)
 
-Free to download and use for your own freelancing workflow.
+Downloads prove the funnel exists. A specific question proves whether the paid breadth is useful to *you*. If one of these fits after you try the sample, open a GitHub issue (or reply wherever you found this) with **one word**:
+
+1. **CLIENTS** — Do you want a reusable client address book so you stop retyping names into aging rows?
+2. **PDF** — Do you want a printable single-invoice sheet that pulls from the same data as Friday aging?
+3. **DASHBOARD** — Do you want outstanding / paid YTD / avg days-to-pay rolled up without a second spreadsheet?
+
+If none apply, keep the free sheet — no pitch. The paid Freelancer Invoice Tracker adds Clients + Line Items + printable Invoice + Dashboard so the Friday habit runs on live invoice data.
+
+## Source / methodology
+
+Based on the common public accounts-receivable aging practice (Current / 1–30 / 31–60 / 60+ days past due) used in bookkeeping textbooks and SME workflows. Example data is fictional. Not Kevin’s personal client data. Not tax or accounting advice.
+
+## License
+
+Free for personal use. Example data is fictional. Not accounting advice.
