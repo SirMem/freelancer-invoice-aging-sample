@@ -28,6 +28,22 @@ https://raw.githubusercontent.com/SirMem/freelancer-invoice-aging-sample/main/Fr
 
 Or clone / browse this repo and open `Freelancer-Invoice-Aging-Sample.xlsx` in Excel, Google Sheets, or LibreOffice.
 
+## Primary CTA — this sample feeds Invoice only
+
+Late pay / messy aging receivables → **[Invoice Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker)**
+
+Stay free if the Aging subset is enough. This sample does **not** hard-upsell Expense, Client, or Bundle.
+
+## Which tracker? (situation map)
+
+- Late pay / messy aging receivables → Invoice Tracker $6 (not Expense or Client)
+- Tax season / Schedule C categories + mileage mess → Expense Tracker $5
+- Pipeline of leads/clients (status + hours), not cash chase → Client Tracker $5
+- Already decided you need all three money ops → Bundle $12 (one checkout)
+- Free Aging sample feeds Invoice only — stay free if the subset is enough
+- Free Expense Category / Client Pipeline samples feed Expense / Client only
+- ADHD 2027 planner & RE listing prompts are different ICPs — free-only here (not money-tracker upsells)
+
 ## Gap questions (optional — only if one fits)
 
 Downloads prove the funnel exists. A specific question proves whether the paid breadth is useful to *you*. If one of these fits after you try the sample, open a GitHub issue (or reply wherever you found this) with **one word**:
