@@ -1,5 +1,7 @@
 # Freelancer Invoice Aging — Free Sample
 
+**Trust hub (disclosure · ledger · refund):** https://sirmem.github.io/freelancer-money-sheets/
+
 A complete, usable **Friday AR habit** spreadsheet: sort unpaid invoices into the four standard accounts-receivable buckets bookkeepers use.
 
 This file is a **structural seam** of the larger **Freelancer Invoice Tracker** — same quality as the paid aging sheet, not a crippled demo. It solves “who is late this Friday?” end-to-end. It does **not** create invoices, store client addresses, print PDFs, or roll income dashboards.
