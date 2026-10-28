@@ -44,15 +44,13 @@ Stay free if the Aging subset is enough. This sample does **not** hard-upsell Ex
 - Free Expense Category / Client Pipeline samples feed Expense / Client only
 - ADHD 2027 planner & RE listing prompts are different ICPs — free-only here (not money-tracker upsells)
 
-## Gap questions (optional — only if one fits)
+## Free vs paid (Invoice only)
 
-Downloads prove the funnel exists. A specific question proves whether the paid breadth is useful to *you*. If one of these fits after you try the sample, open a GitHub issue (or reply wherever you found this) with **one word**:
+This free Aging sample answers “who is late this Friday?” with four buckets.
 
-1. **CLIENTS** — Do you want a reusable client address book so you stop retyping names into aging rows?
-2. **PDF** — Do you want a printable single-invoice sheet that pulls from the same data as Friday aging?
-3. **DASHBOARD** — Do you want outstanding / paid YTD / avg days-to-pay rolled up without a second spreadsheet?
+It does **not** include: reusable Clients address book, printable single-invoice PDF sheet, or Dashboard (outstanding / paid YTD / avg days-to-pay). Those live in the paid [Invoice Tracker $6](https://keithjenn.gumroad.com/l/freelancer-invoice-tracker) for the same late-pay situation.
 
-If none apply, keep the free sheet — no pitch. The paid Freelancer Invoice Tracker adds Clients + Line Items + printable Invoice + Dashboard so the Friday habit runs on live invoice data.
+If the four-bucket subset is enough, stay free — no pitch. Prefer a GitHub issue over email if something in the sample is unclear (Gumroad in-app email may be unavailable on free products).
 
 ## Source / methodology
 
